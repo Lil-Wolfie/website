@@ -1,0 +1,18 @@
+HTTrack3.49-4+libhtsjava.so.2 launched on Mon, 06 Nov 2023 20:57:57 at https://orteil.dashnet.org/cookieclicker/
+(httrack https://orteil.dashnet.org/cookieclicker/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:59:27	Error: 	"Not Found" (404) at link https://orteil.dashnet.org/cookieclicker/playsaurusbanner1.png (from https://orteil.dashnet.org/cookieclicker/)
+20:59:27	Error: 	"Not Found" (404) at link https://orteil.dashnet.org/cookieclicker/playsaurusbanner2.png (from https://orteil.dashnet.org/cookieclicker/)
+20:59:27	Error: 	"Not Found" (404) at link https://orteil.dashnet.org/cookieclicker/playsaurusbanner3.png (from https://orteil.dashnet.org/cookieclicker/)
+21:00:13	Error: 	"Not Found" (404) at link orteil.dashnet.org/cookieclicker/beta/beta (from orteil.dashnet.org/cookieclicker/beta/)
+21:00:13	Error: 	"Not Found" (404) at link orteil.dashnet.org/cookieclicker/beta/playsaurusbanner1.png (from orteil.dashnet.org/cookieclicker/beta/)
+21:00:13	Error: 	"Not Found" (404) at link orteil.dashnet.org/cookieclicker/beta/playsaurusbanner2.png (from orteil.dashnet.org/cookieclicker/beta/)
+21:00:13	Error: 	"Not Found" (404) at link orteil.dashnet.org/cookieclicker/beta/playsaurusbanner3.png (from orteil.dashnet.org/cookieclicker/beta/)
+
+HTTrack Website Copier/3.49-4 mirror complete in 2 minutes 40 seconds : 160 links scanned, 151 files written (3649603 bytes overall) [1924150 bytes received at 12025 bytes/sec], 2481091 bytes transferred using HTTP compression in 29 files, ratio 27%, 16.2 requests per connection
+(7 errors, 0 warnings, 0 messages)
